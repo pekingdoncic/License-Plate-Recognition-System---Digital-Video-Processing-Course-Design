@@ -1,0 +1,116 @@
+﻿  LicensePlateRecognitionDlg.cpp
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(179,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(192,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(544,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(545,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(552,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(553,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(595,38): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(599,38): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(604,108): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(604,71): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(606,115): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(606,81): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(640,38): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(644,38): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(649,110): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(649,72): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(651,118): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(651,83): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(675,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(706,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(952,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(988,16): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(989,17): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(1015,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(1312,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\学习\数字视频处理\课设\LicensePlateRecognition-main\LicensePlateRecognition\LicensePlateRecognitionDlg.cpp(1330,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LicensePlateRecognition.vcxproj -> F:\学习\数字视频处理\课设\LicensePlateRecognition-main\x64\Debug\LicensePlateRecognition.exe
